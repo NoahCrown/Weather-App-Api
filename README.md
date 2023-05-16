@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![localhost_3000_ (14)](https://github.com/NoahCrown/Weather-App-Api/assets/91674419/fe2a6f9d-2a7e-4c0a-b680-b7ff6f027f94)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
